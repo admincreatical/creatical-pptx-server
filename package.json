@@ -1,0 +1,13 @@
+{
+  "name": "creatical-pptx-server",
+  "version": "1.0.0",
+  "description": "Micro-serveur pour générer des PPTX stylés CREATICAL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pptxgenjs": "^3.12.0"
+  }
+}
