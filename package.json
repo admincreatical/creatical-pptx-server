@@ -1,0 +1,14 @@
+{
+  "name": "creatical-pptx-server",
+  "version": "3.0.0",
+  "description": "CREATICAL PPTX Generator - Puppeteer HTML→PNG→PPTX",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pptxgenjs": "^3.12.0",
+    "puppeteer": "^22.0.0"
+  }
+}
